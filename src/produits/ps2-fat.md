@@ -12,7 +12,7 @@ galerie:
 marque: "Sony PlayStation"
 en_stock: true
 publie: true
-ordre: 3
+ordre: 4
 resume: "PS2 Fat avec manette à 30 000 FCFA : la console légendaire pour jouer à PES, GTA San Andreas, Call of Duty et des milliers de classiques. Disponible à Niamey."
 ---
 
