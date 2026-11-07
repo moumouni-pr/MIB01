@@ -1,5 +1,5 @@
 ---
-title: "PlayStation 3 Slim + Manette"
+title: "PlayStation 3 Slim – Kit complet"
 categorie: "Consoles"
 prix: 65000
 icone: "console"
@@ -12,7 +12,7 @@ marque: "Sony PlayStation"
 en_stock: true
 publie: true
 ordre: 3
-resume: "PS3 Slim avec manette à 65 000 FCFA : jeux en HD, Blu-ray, sortie HDMI. Idéale pour PES, FIFA, GTA V et Call of Duty. Disponible à Niamey."
+resume: "PS3 Slim en kit complet (manette et câbles inclus) à 65 000 FCFA, de 120 à 320 Go. Jeux en HD, Blu-ray, HDMI. Disponible à Niamey."
 ---
 
 **Passez à la haute définition sans vous ruiner !** La **PlayStation 3 Slim** vous offre des graphismes en **HD**, un énorme catalogue de jeux et un lecteur **Blu-ray**, le tout pour **seulement 65 000 FCFA**. C'est le meilleur compromis entre la PS2 et la PS4.
@@ -27,9 +27,18 @@ resume: "PS3 Slim avec manette à 65 000 FCFA : jeux en HD, Blu-ray, sortie HDMI
 - 🌐 **Port Ethernet** pour brancher la console sur Internet.
 - 🤫 **Version Slim** : plus fine, plus légère et plus silencieuse que le premier modèle.
 
-### Inclus
+### Kit complet, prêt à jouer
 
-Console PlayStation 3 Slim et **manette sans fil**.
+Tout est dans le kit, vous n'avez rien d'autre à acheter :
+
+- ✅ Console **PlayStation 3 Slim**
+- ✅ **Manette sans fil**
+- ✅ **Câble d'alimentation**
+- ✅ **Câble HDMI**
+
+### Capacité
+
+Disque dur de **120 Go à 320 Go**, selon les arrivages. Vous voulez une capacité précise ? Indiquez-la dans la remarque de votre commande, ou demandez-nous sur WhatsApp ce qui est disponible aujourd'hui.
 
 ### Complétez votre pack
 
@@ -47,4 +56,4 @@ Console PlayStation 3 Slim et **manette sans fil**.
 - 💳 Paiement par **MyNita**, **Amana** ou **à la livraison**
 - 💬 Une question sur les jeux disponibles ? Écrivez-nous sur WhatsApp
 
-👉 Ajoutez-la au panier avec une 2ᵉ manette et commencez à jouer !
+👉 Branchez, allumez, jouez : ajoutez-la au panier avec une 2ᵉ manette !
