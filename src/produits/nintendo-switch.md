@@ -1,5 +1,5 @@
 ---
-title: "Nintendo Switch – Joy-Con Rouge Néon & Bleu Néon"
+title: "Nintendo Switch – Kit complet (Joy-Con Rouge & Bleu Néon)"
 categorie: "Consoles"
 prix: 125000
 icone: "portable"
@@ -11,7 +11,7 @@ marque: "Nintendo"
 en_stock: true
 publie: true
 ordre: 1
-resume: "La Nintendo Switch avec Joy-Con rouge et bleu néon : jouez sur la télé, sur la table ou en portable, partout. Disponible à Niamey."
+resume: "Nintendo Switch en kit complet, Joy-Con rouge et bleu néon, station et câbles inclus : jouez sur la télé, sur la table ou en portable, partout. Disponible à Niamey."
 ---
 
 **Une console, trois façons de jouer.** Avec la **Nintendo Switch**, vous passez de la télé du salon au mode portable en une seconde. Retirez-la de sa station et continuez votre partie dans votre chambre, chez un ami ou en voyage.
@@ -29,9 +29,15 @@ resume: "La Nintendo Switch avec Joy-Con rouge et bleu néon : jouez sur la tél
 - 🌈 **Joy-Con rouge et bleu néon** : le look iconique de la Switch.
 - 🎁 **Le cadeau parfait** pour les enfants comme pour les grands.
 
-### Dans la boîte
+### Kit complet, prêt à jouer
 
-Console Nintendo Switch, Joy-Con gauche (bleu néon) et droit (rouge néon), support Joy-Con, 2 dragonnes, station d'accueil, câble HDMI et adaptateur secteur.
+Tout est dans le kit, vous n'avez rien d'autre à acheter :
+
+- ✅ Console **Nintendo Switch**
+- ✅ **Joy-Con** gauche (bleu néon) et droit (rouge néon)
+- ✅ **Station d'accueil** pour jouer sur la télé
+- ✅ **Câble HDMI**
+- ✅ **Adaptateur secteur** (chargeur)
 
 ### Les garanties MIB GAMING
 

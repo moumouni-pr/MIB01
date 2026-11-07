@@ -1,5 +1,5 @@
 ---
-title: "PlayStation 2 Fat + Manette"
+title: "PlayStation 2 Fat – Kit complet"
 categorie: "Consoles"
 prix: 30000
 badge: "Petit prix"
@@ -13,7 +13,7 @@ marque: "Sony PlayStation"
 en_stock: true
 publie: true
 ordre: 4
-resume: "PS2 Fat avec manette à 30 000 FCFA : la console légendaire pour jouer à PES, GTA San Andreas, Call of Duty et des milliers de classiques. Disponible à Niamey."
+resume: "PS2 Fat en kit complet (manette et câbles inclus) à 30 000 FCFA : la console légendaire pour jouer à PES, GTA San Andreas, Call of Duty et des milliers de classiques. Disponible à Niamey."
 ---
 
 **La légende est de retour !** La **PlayStation 2** est la console la plus vendue de tous les temps, et ce n'est pas un hasard. Pour **seulement 30 000 FCFA**, offrez-vous des **milliers de jeux cultes** et des heures de fun entre amis.
@@ -27,9 +27,14 @@ resume: "PS2 Fat avec manette à 30 000 FCFA : la console légendaire pour jouer
 - 📀 **Lit aussi les DVD** : regardez vos films sur la télé.
 - 🔌 **Facile à brancher** sur n'importe quelle télévision.
 
-### Inclus
+### Kit complet, prêt à jouer
 
-Console PlayStation 2 Fat et **manette**.
+Tout est dans le kit, vous n'avez rien d'autre à acheter :
+
+- ✅ Console **PlayStation 2 Fat**
+- ✅ **Manette**
+- ✅ **Câble d'alimentation**
+- ✅ **Câble audio/vidéo** pour brancher la console sur votre télé
 
 ### Des jeux pour bien commencer
 

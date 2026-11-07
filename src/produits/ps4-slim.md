@@ -1,5 +1,5 @@
 ---
-title: "PlayStation 4 Slim – Noire + Manette DualShock 4"
+title: "PlayStation 4 Slim – Kit complet"
 categorie: "Consoles"
 prix: 130000
 icone: "console"
@@ -10,7 +10,7 @@ marque: "Sony PlayStation"
 en_stock: true
 publie: true
 ordre: 2
-resume: "PS4 Slim noire avec manette DualShock 4 : des milliers de jeux à petit prix, idéale pour EA FC, GTA V et Call of Duty. Disponible à Niamey."
+resume: "PS4 Slim noire en kit complet (manette DualShock 4 et câbles inclus) : des milliers de jeux à petit prix, idéale pour EA FC, GTA V et Call of Duty. Disponible à Niamey."
 ---
 
 **La console qui a conquis le monde, à prix malin.** La **PS4 Slim** est plus fine, plus légère et plus silencieuse que la PS4 d'origine. C'est le meilleur choix pour profiter d'un **immense catalogue de jeux** sans se ruiner.
@@ -23,9 +23,14 @@ resume: "PS4 Slim noire avec manette DualShock 4 : des milliers de jeux à petit
 - 📺 **Netflix, YouTube** et vos films en Blu-ray et DVD sur votre télé.
 - 🤫 **Compacte et silencieuse** : elle trouve sa place partout dans le salon.
 
-### Inclus
+### Kit complet, prêt à jouer
 
-Console PS4 Slim noire et **manette sans fil DualShock 4**.
+Tout est dans le kit, vous n'avez rien d'autre à acheter :
+
+- ✅ Console **PS4 Slim** noire
+- ✅ **Manette sans fil DualShock 4**
+- ✅ **Câble d'alimentation**
+- ✅ **Câble HDMI**
 
 ### Idéale pour
 
